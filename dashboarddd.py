@@ -5,7 +5,7 @@ import streamlit as st
 from babel.numbers import format_currency
 sns.set(style='dark')
 
-air_quality_df = ('air_quality.csv')
+air_quality_df = ('https://raw.githubusercontent.com/fahmii1112/Proyek-analisis-data/refs/heads/main/air_quality.csv')
 
 st.header('Proyek analisis :sparkles:')
 
